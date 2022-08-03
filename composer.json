@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "spatie/crawler": "^6.0",
+        "teamtnt/tntsearch": "^2.6",
+        "donatello-za/rake-php-plus": "^1.0"
+    }
+}
